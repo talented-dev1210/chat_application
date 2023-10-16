@@ -25,6 +25,4 @@ const App = () => {
   );
 };
 
-// infinite scroll, logout, more customizations...
-
 export default App;
